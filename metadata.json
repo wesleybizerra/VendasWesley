@@ -1,0 +1,7 @@
+{
+  "name": "LuxStore E-commerce Premium",
+  "description": "Uma plataforma de e-commerce de alto luxo focada em conversão, com checkout simplificado, painel administrativo completo e design responsivo premium.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
